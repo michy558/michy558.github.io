@@ -17,10 +17,11 @@ A project focused on building an end-to-end IoT device for real-time environment
 
 ## 💻 Secure E-Learning Portal
 **Role:** Full-Stack Developer  
-Developed a web-based e-learning platform with a focus on secure access control and distinct user functionalities.
+Developed a web-based e-learning platform in collaboration with my team members,with a focus on secure access control and distinct user functionalities.
 -   **Core Feature:** Implemented a robust Role-Based Access Control (RBAC) system to manage permissions for different user types (Admin, Instructor, Student).
 -   **Technology Stack:** Built using **PHP** for the back-end logic, **MySQL** for the database, and **HTML/CSS/JavaScript** for a responsive user interface.
 -   **Functionality:** The portal allows admins to manage the site, instructors to create and manage courses, and students to enroll and access educational content securely.
+-   [View on github](https://github.com/gisembaberryl/webproject.git)
 
 ---
 
@@ -31,6 +32,7 @@ A hands-on bootcamp project focused on developing a community-focused platform, 
 -   Used Git for version control to manage and track code changes throughout the development lifecycle.
 -   Collaborated with back-end developers, improving features and engaging in a continuous learning process.
 -   Gained experience in containerizing applications using Docker images and containers.
+-   [View on Github](https://github.com/gisembaberryl/mamashub-web.git)
 
 ---
 ---
