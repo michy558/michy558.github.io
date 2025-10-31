@@ -3,7 +3,7 @@ main:
     url: /cyber/
   - title: "AI"
     url: /ai/
-  - title: "Conferences"
-    url: /conferences/
+  - title: "IoT and Robotics"
+    url: /iot/
   - title: "Projects"
     url: /projects/
