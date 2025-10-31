@@ -1,6 +1,3 @@
-Of course. Here is the updated project.md file with the additional projects and lab challenges you requested.
-
-markdown
 ---
 title: "Projects"
 layout: categories
