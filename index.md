@@ -1,97 +1,68 @@
----
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
 ---
 
-# Curriculum Vitae – Dr. Paula Musuva
+# Curriculum Vitae – Michelle Cherono
 
+---
 
 ## 🎓 Education
 
-- **BSc in Computer Science**, Kabarak University
+- **Bachelor of Science in Computer Security and Forensics**
+  - Kabarak University
+  - Expected Graduation: December 2027
+  - Current Year: Second Year
 
+- **High School Education Certificate**
+  - Nakuru Girls, Nakuru
+  - Graduated: November 2023 with a B (61 Points)
 
-
-## 📜 Certifications
-
-Over 20 industry certifications available on Credly: https://www.credly.com/users/pmusuva
-
-- Information Security
-- IT Governance, Risk, and Compliance (GRC)
-- Information Systems Audit
-- Digital Forensics
-- IT Service Management (ITIL)
-
----
-
-## 👩‍🏫 Academic Experience
-
-**Assistant Professor**, Information Systems  
-*United States International University – Africa*  
-- Over 13 years of teaching experience  
-- Trained 3,900+ undergraduate and postgraduate students  
-- Supervised 22 MSc students 
-- Currently supervising 6 PhD candidates  
-- Spearheaded the development of the MSc in Information Security program (MSEC)  
-- Contributed to curriculum review and quality improvement for IT and CS programs  
+- **Primary Education Certificate**
+  - Kapsabet Highland School, Nandi
+  - Graduated: November 2019 with an A- (378)
 
 ---
 
-## 🧪 Research & Publications
+## 📜 Certifications & Affiliations
 
-- 18 peer-reviewed journal articles and conference papers  
-- Key research areas:
-  - Cybersecurity education
-  - Governance, Risk and Compliance
-  - Vulnerability analysis
-  - Digital forensics
-  - Cyber hygiene and awareness  
-- Research collaborations with:
-  - Serianu Limited
-  - SWIFT Institute
-  - KICTANet
-  - CIRI (Centre for Informatics Research and Innovation)
+- **Oracle OCI AI Foundation Associates** (2025)
+- **AWS Cloud Practitioner Certified**
+- Google Developer Student Club (GDSC) - Kabarak Chapter, Active Participant (2024 - Present)
 
 ---
 
-## 🌍 Community Engagement
+## 🛠️ Technical Skills
 
-**Cyber Shujaa Program**, Co-Founder & Curriculum Director  
-- A consortium of Serianu Ltd, USIU-Africa, and Kenya Bankers Association  
-- Trained 2,550 youth across Kenya (41% women)  
-- 80%+ job placement rate in cybersecurity roles  
-- Developed and certified courses for roles such as security analyst, ethical hacker, GRC auditor, and DPO  
-
-**Tatua Digital Resilience Center**  
-- Co-developed a 5-chapter Cyber Hygiene Curriculum  
-- Promoted digital safety and resilience among citizens
-
-**Consulting & Advocacy**  
-- ICT policy advisor and consultant for [KICTANet](https://www.kictanet.or.ke)  
-- Contributor to national cybersecurity strategies and public interest tech initiatives  
+| Category | Skills |
+| :--- | :--- |
+| **Programming** | React Js, C, HTML/CSS, JavaScript, PHP |
+| **Frameworks/Tools** | Git, GitHub, MySQL, Tailwind, Linux |
+| **Cybersecurity** | Kali Linux, Digital Forensics, Ethical Hacking |
+| **Emerging Tech** | IoT and Robotics |
+| **Soft Skills** | Problem solving and critical thinking, Team collaboration and organization |
 
 ---
 
-## 💼 Professional Experience
+## 👩‍💻 Activities & Experience
 
-**Senior Technology Consultant**, Deloitte East Africa  
-**Service Delivery Team Leader**, IT Service Management (UK, Kenya, Uganda, Ethiopia)  
-- Implemented enterprise networks and security systems across Africa  
-- Led ITIL-based service management implementations  
-- Mentored professionals and guided corporate cybersecurity transformations
+### Tinkacode - Instructor
+*June 2025 - Present*
+- Taught children and young learners the fundamentals of **Internet of Things (IoT)** and **programming** through hands-on projects.
+- Guided students in building creative tech solutions, significantly improving their **problem-solving** and **critical thinking** skills.
+- Mentored learners in team-based projects, encouraging **collaboration** and **innovation**.
+
+### Peer Tutor - Introduction to Programming (Volunteer)
+*2024*
+- Regularly mentor peers on project work using **React**, **Git**, and **IoT** concepts.
+
+### Google Developer Student Club (GDSC) - Kabarak Chapter
+*Active Participant (2024 - Present)*
+- Engaged in hands-on sessions on web development, including modern front-end with **React**, **Rust**, and **Git/GitHub**.
+- Collaborated on group tech projects with fellow students.
 
 ---
 
-## 🤝 Collaborations & Memberships
-
-- Challenge Fund for Youth Employment (CFYE)
-- Kenya Bankers Association (KBA)
-- Serianu Research Fellowship Program
-- Centre for Informatics Research and Innovation (CIRI)
-
----
-
-> Passionate about mentoring the next generation of cybersecurity leaders and advancing Africa’s capacity in digital security, education, and policy.
+> Eager to apply technical knowledge in real-world settings and contribute to digital safety and innovation in local communities.
 
 [Back to Home](/)
-✅
