@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   and innovation.
 twitter_username: # You can add your Twitter handle here if you have one
 github_username: michy558
-minimal_mistakes_skin: sunrise # Chosen a modern, vibrant skin for a student portfolio
+minimal_mistakes_skin: neon # Chosen a modern, vibrant skin for a student portfolio
 search: true
 
 # Build settings
@@ -49,7 +49,7 @@ plugins:
 # Customize the links that appear under your profile picture/name
 author:
   name    : "Michelle Cherono"
-  avatar  : "/assets/images/photo.jpg" # Placeholder for your photo
+  avatar  : "/assets/images/bio-photo.jpg" # Placeholder for your photo
   bio     : "Computer Security & Forensics student, Ethical Hacker enthusiast, and IoT Instructor."
   links:
     - label: "Email"
