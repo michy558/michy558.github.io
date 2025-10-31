@@ -49,7 +49,7 @@ plugins:
 # Customize the links that appear under your profile picture/name
 author:
   name    : "Michelle Cherono"
-  avatar  : "/assets/images/bio-photo.jpg" # Placeholder for your photo
+  avatar  : "/assets/images/Michy.jpg" # Placeholder for your photo
   bio     : "Computer Security & Forensics student, Ethical Hacker enthusiast, and IoT Instructor."
   links:
     - label: "Email"
