@@ -1,6 +1,6 @@
 ---
-layout: page
 title: IoT & Robotics
+layout: categories
 permalink: /iot/
 ---
 
