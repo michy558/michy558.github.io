@@ -1,7 +1,7 @@
 ---
 layout: page
 title: IoT & Robotics
-permalink: /iot-robotics/
+permalink: /iot/
 ---
 
 
